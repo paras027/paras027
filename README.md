@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paras027
-- 👀 I’m interested in Android Development
+- 👀 I’m a Android and a Game Developer
 - 🌱 I’m currently learning DSA and android development
-- 💞️ I’m looking to collaborate on projects related to java or c++
+- 💞️ I’m looking to collaborate on projects related to Android or Game Development
 - 📫 How to reach me parasbhardwaj.ps@gmail.com
 
 <!---
