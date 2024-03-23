@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paras027
-- 👀 I’m a Android and a Game Developer
+- 👀 I’m a Full Stack Web Developer(MERN) and Android Developer
 - 🌱 I’m currently learning DSA and android development
-- 💞️ I’m looking to collaborate on projects related to Android or Game Development
+- 💞️ I’m looking to collaborate on projects related to Web and Android Development
 - 📫 How to reach me parasbhardwaj.ps@gmail.com
 
 <!---
