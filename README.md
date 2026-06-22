@@ -21,7 +21,7 @@ Building scalable backend systems, distributed applications and solving complex 
 - 🌱 Learning **AWS, Distributed Systems & System Design**
 - 🧠 Solved **600+ DSA problems**
 - ⚡ Passionate about writing scalable backend systems
-- 📫 Reach me at **yourmail@gmail.com**
+- 📫 Reach me at **parassharma.0927@gmail.com**
 
 ---
 
@@ -123,7 +123,7 @@ A scalable coding platform inspired by LeetCode.
 </a>
 
 <a href="https://x.com/Parass227">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=x" />
 </a>
 
 </p>
