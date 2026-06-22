@@ -123,7 +123,7 @@ A scalable coding platform inspired by LeetCode.
 </a>
 
 <a href="https://x.com/Parass227">
-<img src="https://skillicons.dev/icons?i=x" />
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 </p>
